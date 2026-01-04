@@ -2,9 +2,6 @@
 
 ![banner-gh](https://github.com/user-attachments/assets/420e20c5-401f-4353-8c96-0a12a23f3ca0)
 
-<h1 align="center"> Hi 👋 I'm Iván Carrillo</h1>
-<h3 align="center">💻 Frontend Developer | UI Specialist | Web Craftswoman</h3>
-
 ---
 
 ### Backend & Frontend: <br/> <br/> 	[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
