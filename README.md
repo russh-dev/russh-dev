@@ -6,9 +6,8 @@
 ![banner-gh](https://github.com/user-attachments/assets/420e20c5-401f-4353-8c96-0a12a23f3ca0)
 
 ---
-<h1 align="center"> 
 
-<h3>🛠️ Technical Arsenal</h3>
+<h3 align="center">🛠️ Technical Arsenal</h3>
 
 <h1 align="center"> 
   
