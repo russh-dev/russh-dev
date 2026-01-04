@@ -5,6 +5,8 @@
 
 <p align="left">
 Hola, mi nombre es Ivan Carrillo G.! Me gusta compartir conocimiento y resolver problemas, y segun mi perspectiva, la tecnologia es un recurso para lograr nuestras metas. Actualmente trabajo como programador en una empresa. Soy un apasionado de la tecnologia y siempre estoy dispuesto y trato de aprender nuevas cosas como nuevos lenguajes, metodos, tecnicas, etc...<br> <br>
+ 
+---
 
 ### Backend & Frontend: <br/> <br/> 	[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
