@@ -6,10 +6,8 @@
 ![banner-gh](https://github.com/user-attachments/assets/420e20c5-401f-4353-8c96-0a12a23f3ca0)
 
 ---
-
-<h3>🛠️ Technical Arsenal</h3>
   
-<h4>Languages</h4>
+<h4>My Skills 🛠️</h4>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)<br>
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) <br>
