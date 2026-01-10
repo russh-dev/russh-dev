@@ -6,8 +6,7 @@
 ![banner-gh](https://github.com/user-attachments/assets/420e20c5-401f-4353-8c96-0a12a23f3ca0)
 
 <h3>About Me</h3>
-
---
+<h1></h1>h1
 
 <p></p>My name is Iván Carrillo García, also known as RussH. I'm passionate about programming and technology. I really enjoy solving both simple and complex problems. I've always had a knack for finding creative solutions, which has led me to learn new things every day, constantly striving to improve my skills and expand my knowledge of programming and technology.</p>
   
