@@ -4,7 +4,7 @@ Hi there, I'm Iván Carrillo García! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icarrillog/)](https://www.linkedin.com/in/icarrillog/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link="")](#) ![](https://komarev.com/ghpvc/?username=icg-dev) [![GitHub followers](https://img.shields.io/github/followers/RussHDev?label=Follow&style=social)](https://github.com/RussHDev)
 </h1>
 
-![banner-gh](https://github.com/user-attachments/assets/420e20c5-401f-4353-8c96-0a12a23f3ca0)
+![russhdev2](https://github.com/user-attachments/assets/11331e54-1aed-4e03-a91e-6cdb774c7a86)
 
 ## About Me
 
