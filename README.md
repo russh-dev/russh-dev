@@ -7,7 +7,7 @@
 
 <h3>About Me</h3>
 
----
+--
 
 <p></p>My name is Iván Carrillo García, also known as RussH. I'm passionate about programming and technology. I really enjoy solving both simple and complex problems. I've always had a knack for finding creative solutions, which has led me to learn new things every day, constantly striving to improve my skills and expand my knowledge of programming and technology.</p>
   
